@@ -25,7 +25,7 @@
   import {
     QBtn,
     QTooltip
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   import CalendarMixin from './mixins/CalendarMixin'
   import CalendarEventMixin from './mixins/CalendarEventMixin'
   import dashHas from 'lodash.has'
