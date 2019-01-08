@@ -334,7 +334,7 @@
     QCheckbox,
     QDatetime,
     QInput
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   import CalendarMixin from './mixins/CalendarMixin'
   const { DateTime } = require('luxon')
   export default {
