@@ -112,7 +112,7 @@
     QTab,
     QTabPane,
     QScrollArea
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   import QuantityBubble from './QuantityBubble'
   import CalendarEvent from './CalendarEvent'
   import CalendarDayLabels from './CalendarDayLabels'
