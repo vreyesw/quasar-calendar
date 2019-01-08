@@ -152,7 +152,7 @@
     QScrollArea,
     QInfiniteScroll,
     QSpinnerDots
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   export default {
     name: 'CalendarAgenda',
     components: {
