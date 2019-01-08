@@ -27,7 +27,7 @@
 <script>
   import {
     QBtn
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   export default {
     name: 'CalendarHeaderNav',
     props: {
