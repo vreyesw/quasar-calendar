@@ -105,7 +105,7 @@
     QTooltip,
     QScrollArea,
     scroll
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   const { getScrollTarget, setScrollPosition } = scroll
   export default {
     name: 'CalendarMultiDay',
