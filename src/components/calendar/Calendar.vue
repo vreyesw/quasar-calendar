@@ -141,7 +141,7 @@
     QTab,
     QTabPane,
     QScrollArea
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   import QuantityBubble from './QuantityBubble'
   export default {
     name: 'Calendar',
