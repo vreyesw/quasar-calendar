@@ -41,7 +41,7 @@
 <script>
   import CalendarEvent from './CalendarEvent'
   import CalendarMixin from './mixins/CalendarMixin'
-  import { date } from 'quasar'
+  import { date } from 'quasar-framework/dist/quasar.mat.esm'
   const { DateTime } = require('luxon')
   export default {
     name: 'CalendarDayColumn',
