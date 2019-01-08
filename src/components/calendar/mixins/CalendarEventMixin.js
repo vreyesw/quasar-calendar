@@ -2,7 +2,7 @@ import dashHas from 'lodash.has'
 // import DateTime from 'luxon'
 import {
   date
-} from 'quasar'
+} from 'quasar-framework/dist/quasar.mat.esm'
 const defaultParsed = {
   byAllDayStartDate: {},
   byAllDayObject: {},
