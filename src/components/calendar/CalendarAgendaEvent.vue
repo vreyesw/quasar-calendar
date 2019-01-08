@@ -48,7 +48,7 @@
   import {
     QBtn,
     QTooltip
-  } from 'quasar'
+  } from 'quasar-framework/dist/quasar.mat.esm'
   const { DateTime } = require('luxon')
   export default {
     name: 'CalendarAgendaEvent',
